@@ -1,5 +1,5 @@
 # Drawing 1
 
-![Preview](autocad pipe drawing.png)
+![Preview](Drawing1.png)
 
-DWG file: autocad pipe drawing.dwg
+DWG file: Drawing1.dwg
